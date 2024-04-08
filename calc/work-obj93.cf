@@ -1,0 +1,10 @@
+v 4
+file . "alu.vhd" "14d50a50fd220270fc192d8424f8c818e40bb96e" "20231030210616.191":
+  entity alu at 2( 11) + 0 on 27;
+  architecture rtl of alu at 18( 293) + 0 on 28;
+file . "calc.vhd" "3de61f3755c258ef3f50d09c58d59813e373a5a8" "20231030210616.189":
+  entity calc at 3( 13) + 0 on 25;
+  architecture rtl of calc at 18( 295) + 0 on 26;
+file . "calcbench.vhd" "948d3236d178a00f0c7117a4bd4a55373618623e" "20231030210616.186":
+  entity calcbench at 9( 213) + 0 on 23;
+  architecture test of calcbench at 16( 316) + 0 on 24;

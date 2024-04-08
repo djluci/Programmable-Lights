@@ -1,0 +1,8 @@
+lightsig[0],0,GreenLED1
+lightsig[1],1,GreenLED2
+lightsig[2],2,GreenLED3
+lightsig[3],3,GreenLED4
+lightsig[4],4,GreenLED5
+lightsig[5],5,GreenLED6
+lightsig[6],6,GreenLED7
+lightsig[7],7,GreenLED8
